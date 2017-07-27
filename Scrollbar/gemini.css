@@ -1,0 +1,41 @@
+/*
+* @Author: Kristinita
+* @Date:   2017-05-02 11:33:47
+* @Last Modified by:   Kristinita
+* @Last Modified time: 2017-05-02 11:37:12
+*/
+
+
+/* ==========================================================================
+   Gemini scrollbar
+   ========================================================================== */
+
+
+/* Description — https://github.com/noeldelgado/gemini-scrollbar */
+
+
+/* Radius of scrollbar borders*/
+
+.gm-scrollbar {
+    border-radius: 0.4rem;
+}
+
+.gm-scrollbar.-vertical {
+    width: 0.8rem;
+    background-color: #ffdab9;
+    /* Disable top and bottom margins */
+    top: 0;
+    bottom: 0;
+}
+
+.gm-scrollbar .thumb {
+    background-color: rgba(128, 74, 125, 0.6);
+}
+
+
+/* Thumb — scrollbar container */
+
+.gm-scrollbar .thumb:hover,
+.gm-scrollbar .thumb:active {
+    background-color: rgba(128, 74, 125, 0.6);
+}
