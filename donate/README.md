@@ -1,0 +1,1 @@
+[![Bitcoin Donate Button](http://KristinitaTest.github.io/donate/Bitcoin-Donate-button.png)](http://KristinitaTest.github.io/donate/Bitcoin-Redirect)
