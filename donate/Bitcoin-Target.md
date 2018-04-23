@@ -1,1 +1,1 @@
-<a href="http://Kristinita.ru/Donate-files/Bitcoin-Redirect" target="_blank"><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></a>
+<a href="http://KristinitaTest.github.io/donate/Bitcoin-Redirect" target="_blank"><img src="http://KristinitaTest.github.io/donate/Bitcoin-Donate-button.png"></a>
